@@ -20,7 +20,6 @@
 <h1 align="center">
     <img src="assets/found.png">
 </h1>
-<br/>
 
  ---
 ## 🦸 Author
