@@ -11,7 +11,6 @@
 
 * Help panel to run commands
 
-<br/>
 <h1 align="center">
     <img src="assets/help.png">
 </h1>
@@ -19,7 +18,6 @@
 
 * When running the script returns the sub domains related to the scanned DNS, as an example I used facebook.com
 
-<br/>
 <h1 align="center">
     <img src="assets/found.png">
 </h1>
