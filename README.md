@@ -2,7 +2,6 @@
 
 * Tool for collecting information through DNS, in shell script
 
-<br/>
 <h1 align="center">
     <img src="assets/banner.png">
 </h1><br/>
@@ -28,7 +27,7 @@
 
 <a href="#">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50157211?s=120&v=4" width="100px;" alt=""/>
-<br />
+<a />
 
 Made by Douglas Souza 👋🏽 Get in touch!
 
